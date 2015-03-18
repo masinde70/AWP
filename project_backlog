@@ -1,0 +1,14 @@
+##PROJECT: DIARY
+FEATURES
+1.	Define system requirements
+2.	Install and configure the required assets
+3.	Setup the server
+4.	Design signup page
+5.	Design login page
+6.	Enable user authentication
+7.	Create the database
+8.	Create user profile features
+9.	Enable note addition
+10.	Enable note editing
+11.	Enable note deleting
+12.	Enable email notification
