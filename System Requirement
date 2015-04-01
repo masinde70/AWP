@@ -1,0 +1,28 @@
+
+SPRINT1:System Requirements Definition
+--------------------------------------
+1-Development Platform:
+   a.Local Operating system:Windows 7+
+   b.GitHub
+
+2.Development Tools
+  
+  a.PhpMyAdmin Database
+  b.Text Editor:Sublime Text 2 and Notepad ++
+
+3.Implementation and testing tools
+
+  a.Web browser:Chrome and Firefox
+  b.Apache Server version 2.2 
+
+
+4.Development Assets
+  a.Laravel Version 4.2
+  b.Composer
+
+
+5.Assets
+  a.LARAVEL 4.2
+  b.Composer use as dependancy
+  c.PHP 5.4+
+
